@@ -1,4 +1,6 @@
 {
+    "name": "caaqil/php",
+    "description": "Waa Php Fremwork",
     "repositories": [
         {
             "type": "package",
